@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# basics-book template
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+If you want ot start a new basics-book, it could be a good idea to start from this template.
 
-Check out the content pages bundled with this sample book to see more.
+Please check out the Github repo of the project, [basics-book project](https://github.com/Basics2022).
+
 
 ```{tableofcontents}
 ```
